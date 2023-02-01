@@ -10,7 +10,7 @@ Neste desafio você deve criar uma página de `coming soon` para o lançamento d
 
 ## Layout
 
-![MacBook Pro 16 inch.png](F:\desafios-rocketseat-discover\countdown\assets\images\MacBook_Pro_16_inch.png)
+![MacBook Pro 16 inch.png](assets\images\MacBook_Pro_16_inch.png)
 
 # 🚀 **Techs**
 
