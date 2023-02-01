@@ -1,6 +1,5 @@
 # Desafio: Countdown
 
-## **Índice**
 
 # 💻 Sobre o desafio
 
